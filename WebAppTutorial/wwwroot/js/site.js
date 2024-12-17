@@ -33,7 +33,7 @@ function draw() {
         dy = -dy; // Reverse vertical direction
     }
 
-    // Update ball position
+    // Update the position
     x += dx;
     y += dy;
 
